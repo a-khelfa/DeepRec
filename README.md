@@ -10,4 +10,4 @@ Factorisation Matricielle (SVD) : Une technique d'apprentissage automatique pour
 
 Réseaux Neuronaux Profonds : L'approche principale, utilisant des architectures de Deep Learning pour capturer des interactions complexes entre utilisateurs et éléments, allant au-delà des similarités linéaires.
 
-Ce projet démontre la capacité à concevoir, implémenter et évaluer des systèmes de recommandation complexes, en mettant en avant l'utilisation de frameworks de Deep Learning pour des solutions à fort impact sur l'engagement utilisateur.
+Mon objectif est de concevoir, implémenter et évaluer des systèmes de recommandation complexes, en mettant en avant l'utilisation de frameworks de Deep Learning pour des solutions à fort impact sur l'engagement utilisateur.
