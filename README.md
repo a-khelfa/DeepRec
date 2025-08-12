@@ -96,8 +96,12 @@ Note : Les valeurs exactes peuvent varier en fonction de l'entraînement et du d
 Le notebook 4_Evaluation_Comparison.ipynb démontre comment utiliser le modèle de Deep Learning entraîné pour générer une liste de films recommandés pour un utilisateur spécifique, basée sur les notes prédites les plus élevées.
 
 ## Améliorations Futures
-- Intégrer les métadonnées des films (genres, tags) dans le modèle de Deep Learning pour un système de recommandation hybride.
+- Optimisation des hyperparamètres : Affiner les paramètres du modèle de Deep Learning tels que la dimension des embeddings, le nombre de neurones dans les couches denses et le taux d'apprentissage pour en améliorer la précision.
 
-- Explorer des architectures de Deep Learning plus complexes (par exemple, un auto-encodeur variationnel).
+- Ajout de régularisation : Intégrer des techniques comme les couches de Dropout pour éviter le surapprentissage et améliorer la capacité de généralisation du modèle sur de nouvelles données.
 
-- Déployer le modèle en tant qu'API pour des recommandations en temps réel.
+- Intégration de métadonnées : Inclure des informations supplémentaires sur les films (genres, tags) dans le modèle de Deep Learning pour créer un système de recommandation hybride encore plus pertinent.
+
+- Exploration d'architectures plus complexes : Tester des modèles plus sophistiqués, comme l'architecture complète du Neural Collaborative Filtering (NCF) ou des auto-encodeurs variationnels.
+
+- Déploiement en production : Mettre en place une API pour permettre des recommandations en temps réel.
